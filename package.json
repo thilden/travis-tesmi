@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thilden/travis-tesmi/issues"
   },
-  "homepage": "https://github.com/thilden/travis-tesmi#readme"
+  "homepage": "https://github.com/thilden/travis-tesmi#readme",
+  "devDependencies": {
+    "mocha": "^8.1.1"
+  }
 }
